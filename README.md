@@ -8,7 +8,7 @@
 
 Abaixo, a visualização completa do fluxo orquestrado no n8n. O sistema utiliza uma lógica de ramificação para tratar texto, áudio e imagem de forma independente, garantindo que cada tipo de dado receba o processamento de IA adequado.
 
-![Fluxo de Automação n8n](./fluxo-agente-n8n.png)
+![Fluxo de Automação n8n](/img/fluxo-agente-n8n.png)
 
 ---
 
